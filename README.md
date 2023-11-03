@@ -1,8 +1,9 @@
 # Hello Python
 
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://python.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://fastapi.tiangolo.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://www.mongodb.com)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 
@@ -10,6 +11,12 @@
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+
+## ¡NUEVO! Curso de Python para web
+
+[![Curso Python Web](https://img.shields.io/github/stars/mouredev/python-web?label=Curso%20Python%20web&style=social)](https://github.com/mouredev/python-web)
+
+<a href="https://github.com/mouredev/python-web"><img src="https://raw.githubusercontent.com/mouredev/python-web/main/Images/header.jpg"/></a>
 
 ## Clases en vídeo
 
@@ -86,8 +93,24 @@ Curso en el que aprenderemos a utilizar Python para backend e implementaremos un
 * [Lección 15 - OAuth2 JWT](https://youtu.be/_y9qQZXE24A?t=17664)
 * [Lección 16 - MongoDB](https://youtu.be/_y9qQZXE24A?t=20480)
 * [Lección 17 - MongoDB Atlas](https://youtu.be/_y9qQZXE24A?t=25470)
-* [Lección 18 - Despliegue en Deta](https://youtu.be/_y9qQZXE24A?t=27335)
-* [Lección Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
+* [Lección 18 - Despliegue en Deta *](https://youtu.be/_y9qQZXE24A?t=27335)
+* [Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
+
+***ACTUALIZACIÓN Sobre la lección 18:** Deta ha actualizado ligeramente su servicio de despliegue de aplicaciones con FastAPI. Tienes toda la documentación [aquí](https://deta.space/docs/en/quickstart-guides/python#fastapi). También han creado una [guía de migración](https://deta.space/migration/guides/migrate-a-micro/).
+
+### Aprende a integrar ChatGPT en tu proyecto desde cero
+
+<a href="https://youtu.be/b8COygWdvmw"><img src="http://i3.ytimg.com/vi/b8COygWdvmw/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+Clase de una hora de duración donde aprenderás a interactuar con ChatGPT desde tu aplicación, mantener conversaciones y establecer el contexto de la IA para potenciar tu proyecto.
+
+Con todo el código publicado [aquí](https://gist.github.com/mouredev/58abfbcef017efaf3852e8821564c011).
+
+### Introducción al Testing
+
+Taller de introducción a testing con Python creado junto a [Carlos Blé](https://www.carlosble.com) y [Miguel A. Gómez](https://softwarecrafters.io), expertos en la materia.
+
+<a href="https://youtu.be/344uwF1z2Gg"><img src="http://i3.ytimg.com/vi/344uwF1z2Gg/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
 ### Extra: 15 curiosidades sobre Python
 
